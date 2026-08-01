@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="GitHub Banner" width="100%">
+</p> 
+
 # Hi, I'm Emmanuel Effah 👋
 
 I'm a Data Analyst from Ghana with a background in Human Resource Management and a passion for turning raw data into decisions that people and businesses can actually use.
